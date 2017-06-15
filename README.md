@@ -1,7 +1,7 @@
 ## Fashion eCommerce Platform DB Schema
 The following schema represents the DB :postbox: of an eCommerce :moneybag: platform where businesses/brands can create stores to sell their fashion :dress: :mans_shoe: :handbag: products. You can always "panel beat" the schema to suit your needs if that's not where you're headed! :red_car: To contribute: **fork this repo and send a pull request**.
 
-** NB: pk = *primary key*, fk = *foreign key* **
+**NB: pk = *primary key*, fk = *foreign key***
 
 ### :high_heel: products
 * id (pk)
